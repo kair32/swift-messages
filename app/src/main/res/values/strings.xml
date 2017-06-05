@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">mess</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_settings">Settings</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="setting">Setting</string>
+    <string name="about_prog">About the program</string>
+    <string name="join">Join</string>
+    <string name="dialog">Dialogues</string>
+    <string name="create_dialog">Create dialogue</string>
+    <string name="exit">Output</string>
+    <string name="dell">Remove</string>
+    <string name="forgot">Forgot?</string>
+    <string name="finger_print_entrance">Put your finger to enter</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="tap_copy_key">Click to copy the unique access key to dialogue.</string>
+    <string name="name_dialog">Name devlog</string>
+    <string name="enter_name_dial">Enter the name of the dialogue:</string>
+    <string name="create_passvord">Set password</string>
+    <string name="use_finger_print">Use your fingerprint at the entrance</string>
+    <string name="use_password">Use a password at login</string>
+    <string name="safe_entr">Secure login</string>
+    <string name="send">Send</string>
+    <string name="unique_key">Unique key:</string>
+    <string name="text_view_mail">Dear friends, at the moment you are using a beta version of the app. I apologize for possible mistakes. I would be grateful if you report them in the mail aleksanov.96@gmail.com.</string>
+    <string name="text_view_bank">Even more I would be grateful for assistance in the development of the project 4276 8080 2986 9919</string>
+    <string name="text_view_version">Beta 1.0.0</string>
+    <string name="copy_unique_key">Copy unique key</string>
+    <string name="dell_dialog">Remove the dialogue</string>
+    <string name="install">Install</string>
+    <string name="enter_password_again">Enter the password again</string>
+    <string name="enter_password">Enter password:</string>
+    <string name="register_swift_mess">Register \nSwift messager</string>
+    <string name="welcome">welcome!</string>
+    <string name="copy_adress_mail">Address e-aucti copied to the clipboard!</string>
+    <string name="copy_bank">Card number copied in the clipboard!</string>
+    <string name="copy_buffer">Copied to the clipboard!</string>
+    <string name="function_not_work">The function is temporarily unavailable. Please accept our apologies.</string>
+    <string name="no_name">No name</string>
+    <string name="enter_unique_dialog">Enter a unique key dialog</string>
+    <string name="copy">copy</string>
+</resources>

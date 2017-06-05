@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">mess</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="setting">Настройки</string>
+    <string name="about_prog">О программе</string>
+    <string name="join">Присоедениться</string>
+    <string name="dialog">Диалоги</string>
+    <string name="create_dialog">Создать диалог</string>
+    <string name="exit">Выход</string>
+    <string name="dell">Удалить</string>
+    <string name="forgot">Забыли?</string>
+    <string name="finger_print_entrance">Приложите палец, чтобы войти</string>
+    <string name="save">Сохранить</string>
+    <string name="cancel">Отменить</string>
+    <string name="tap_copy_key">Нажмите, чтобы скопировать уникальный ключ доступа к диалогу.</string>
+    <string name="name_dialog">Название дивлога</string>
+    <string name="enter_name_dial">Введите название диалога:</string>
+    <string name="create_passvord">Установить пароль</string>
+    <string name="use_finger_print">Использовать отпечаток пальца при входе</string>
+    <string name="use_password">Использовать пароль при входе</string>
+    <string name="safe_entr">Безопасный вход</string>
+    <string name="send">Отправить</string>
+    <string name="unique_key">Уникальный ключ:</string>
+    <string name="text_view_mail">Дорогие друзья, на данный момент вы используете бета версию приложения. Приношу свои извинения за возможные ошибки. Буду признателен, если вы сообщите о них на почту aleksanov.96@gmail.com.</string>
+    <string name="text_view_bank">Еще больше буду благодарен за помощь в развитии проекта 4276 8080 2986 9919</string>
+    <string name="text_view_version">Бета-версия 1.0.0</string>
+    <string name="copy_unique_key">Скопировать уникальный ключ</string>
+    <string name="dell_dialog">Удалить диалог</string>
+    <string name="install">Установить</string>
+    <string name="enter_password_again">Введите пароль повторно</string>
+    <string name="enter_password">Введите пароль:</string>
+    <string name="register_swift_mess">Зарегестрироваться в\nSwift messager</string>
+    <string name="welcome">добро пожаловать!</string>
+    <string name="copy_adress_mail">Адресс электронной аочты скопировано в буфер обмена!</string>
+    <string name="copy_bank">Номер карты скопирован в буфер обмена!</string>
+    <string name="copy_buffer">Скопировано в буфер обмена!</string>
+    <string name="function_not_work">Функция временно недоступна. Приносим свои извинения.</string>
+    <string name="no_name">Без имени</string>
+    <string name="enter_unique_dialog">Введите уникальный ключ диалога</string>
+    <string name="copy">Копировать</string>
+</resources>
